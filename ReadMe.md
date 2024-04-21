@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Eu sou estudante de Análise e Desenvolvimento de Sistemas<br>👯 Estou a procura de Estágio<br>🤝 Sempre estou disposto a receber e oferecer ajuda<br>🌱 Aprendendo linguagens JAVA e PHP
+🔭 Eu sou estudante de Análise e Desenvolvimento de Sistemas<br>👯 Estou a procura de Estágio<br>🤝 Sempre estou disposto a receber e oferecer ajuda na programação<br>🌱 Aprendendo linguagens JAVA e PHP
 
 
 ## 🌐 Socials:
